@@ -1,7 +1,8 @@
 import 'dart:io';
 
 import 'package:http/http.dart' as http;
-import 'package:mvvm_templete/utils/imports/all_imports.dart';
+
+import '../../utils/imports/all_imports.dart';
 
 class NetworkApiServices extends BaseApiServices {
   @override

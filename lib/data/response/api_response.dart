@@ -1,4 +1,4 @@
-import 'package:mvvm_templete/utils/imports/all_imports.dart';
+import 'status.dart';
 
 class ApiResponse<T> {
   Status? status;

@@ -1,7 +1,4 @@
-import 'package:mvvm_templete/res/components/custom_button.dart';
-import 'package:mvvm_templete/res/components/custom_text.dart';
-import 'package:mvvm_templete/res/components/custom_vertical_space.dart';
-import 'package:mvvm_templete/utils/imports/all_imports.dart';
+import '../../utils/imports/all_imports.dart';
 
 class InternetException extends StatelessWidget {
   const InternetException({super.key, required this.onPressed});

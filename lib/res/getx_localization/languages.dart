@@ -1,4 +1,4 @@
-import 'package:mvvm_templete/utils/imports/all_imports.dart';
+import 'package:get/get.dart';
 
 class Languages extends Translations {
   @override

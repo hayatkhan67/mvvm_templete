@@ -1,4 +1,4 @@
-import 'package:mvvm_templete/utils/imports/all_imports.dart';
+import '../../utils/imports/all_imports.dart';
 
 class SplashService {
   void isLogin() async {

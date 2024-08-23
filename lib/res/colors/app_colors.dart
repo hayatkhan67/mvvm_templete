@@ -1,4 +1,4 @@
-import 'package:mvvm_templete/utils/imports/all_imports.dart';
+import 'package:flutter/material.dart';
 
 class AppColors {
   //add using static keyword

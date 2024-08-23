@@ -1,7 +1,4 @@
-import 'package:mvvm_templete/res/colors/app_colors.dart';
-import 'package:mvvm_templete/utils/imports/all_imports.dart';
-import 'package:url_launcher/url_launcher.dart';
-import 'package:fluttertoast/fluttertoast.dart';
+import 'imports/all_imports.dart';
 
 class Utils {
   static final emailRegExp = RegExp(r"[a-zA-Z0-9._-]+@[a-z]+\.[a-z]+");

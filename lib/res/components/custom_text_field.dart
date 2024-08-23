@@ -1,5 +1,4 @@
-import 'package:mvvm_templete/res/components/custom_text.dart';
-import 'package:mvvm_templete/utils/imports/all_imports.dart';
+import '../../utils/imports/all_imports.dart';
 
 class CustomTextField extends StatelessWidget {
   const CustomTextField(
